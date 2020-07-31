@@ -1,6 +1,7 @@
 import pytest
 import pandas as pd
 from selenium import webdriver  # Importing web driver
+from selenium.webdriver.support.select import Select
 
 driver = None
 

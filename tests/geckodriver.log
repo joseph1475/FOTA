@@ -1866,3 +1866,99 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 1595918701986	Marionette	INFO	Listening on port 59866
 1595918702295	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+1596086943537	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\joseph.p\\AppData\\Local\\Temp\\rust_mozprofile55Nzsv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 6520, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1596086959286	Marionette	INFO	Listening on port 62769
+1596086959425	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+1596087096178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\joseph.p\\AppData\\Local\\Temp\\rust_mozprofile0sYwXj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596087099921	Marionette	INFO	Listening on port 62843
+1596087100382	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1596087217174	Marionette	INFO	Stopped listening on port 62843
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596111456567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\joseph.p\\AppData\\Local\\Temp\\rust_mozprofile3382lU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596111475858	Marionette	INFO	Listening on port 51270
+1596111476229	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+[Child 18464, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596111486859	Marionette	INFO	Stopped listening on port 51270
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596111503403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\joseph.p\\AppData\\Local\\Temp\\rust_mozprofileGadfOT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596111508827	Marionette	INFO	Listening on port 51339
+1596111509285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+1596111563586	Marionette	INFO	Stopped listening on port 51339
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596115041087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\joseph.p\\AppData\\Local\\Temp\\rust_mozprofileiXleAW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596116809881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\joseph.p\\AppData\\Local\\Temp\\rust_mozprofileM04tq5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596116851637	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\joseph.p\\AppData\\Local\\Temp\\rust_mozprofileeMuWXV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596116863239	Marionette	INFO	Listening on port 58755
+1596116863382	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+1596116884343	Marionette	INFO	Stopped listening on port 58755
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596117228586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\joseph.p\\AppData\\Local\\Temp\\rust_mozprofileChzJCO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596117234024	Marionette	INFO	Listening on port 58933
+1596117234361	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+1596117254323	Marionette	INFO	Stopped listening on port 58933
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596117356662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\joseph.p\\AppData\\Local\\Temp\\rust_mozprofileccrsMV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596117362688	Marionette	INFO	Listening on port 59008
+1596117362918	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement
+JavaScript warning: https://xdme.wireless.att.com/script/mf_validation.js, line 95: unreachable code after return statement

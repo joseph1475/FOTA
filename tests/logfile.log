@@ -698,3 +698,45 @@
 2020-07-28 12:01:18,917 :INFO : test_main_upgrade_package :upload failed
 2020-07-28 12:01:18,927 :INFO : test_main_upgrade_package :=============moving to next upload !!!=============
 2020-07-28 12:01:19,074 :INFO : clickAddPackage :Package uploading started,please wait
+2020-07-30 10:59:33,642 :INFO : test_main_upgrade_package :Updating Main upgrade package details
+2020-07-30 10:59:33,642 :INFO : test_main_upgrade_package :ATT_USER_26.00-38.00
+2020-07-30 10:59:33,642 :INFO : test_main_upgrade_package :Upgrade from ATT v26 MR2 TA to v38 MR5  IFW2
+2020-07-30 10:59:33,642 :INFO : test_main_upgrade_package :5SA.0.3-11-8.1.0-10.26.00
+2020-07-30 10:59:33,642 :INFO : test_main_upgrade_package :5SA.0.4-14-8.1.0-10.38.00
+2020-07-30 10:59:33,726 :INFO : test_main_upgrade_package :D:\Python_XDM\v38\packages\ATT_USER_26.00-38.00.zip
+2020-07-30 10:59:43,396 :INFO : clickAddPackage :Package uploading started,please wait
+2020-07-30 11:01:52,148 :INFO : test_main_upgrade_package :Updating Main upgrade package details
+2020-07-30 11:01:52,148 :INFO : test_main_upgrade_package :ATT_USER_26.00-38.00
+2020-07-30 11:01:52,148 :INFO : test_main_upgrade_package :Upgrade from ATT v26 MR2 TA to v38 MR5  IFW2
+2020-07-30 11:01:52,148 :INFO : test_main_upgrade_package :5SA.0.3-11-8.1.0-10.26.00
+2020-07-30 11:01:52,148 :INFO : test_main_upgrade_package :5SA.0.4-14-8.1.0-10.38.00
+2020-07-30 11:01:52,238 :INFO : test_main_upgrade_package :D:\Python_XDM\v38\packages\ATT_USER_26.00-38.00.zip
+2020-07-30 11:02:01,908 :INFO : clickAddPackage :Package uploading started,please wait
+2020-07-30 17:48:48,133 :INFO : test_5MB :Updating 5MB package details
+2020-07-30 17:48:48,150 :INFO : test_5MB :ATT v38 00 to v38 00 5MB
+2020-07-30 17:48:48,150 :INFO : test_5MB :Upgrade from ATT v38 to v38 5MB
+2020-07-30 17:48:48,150 :INFO : test_5MB :5SA.0.4-14-8.1.0-10.38.00
+2020-07-30 17:48:48,150 :INFO : test_5MB :5SA.0.4-98-8.1.0-10.38.00.5MB
+2020-07-30 17:48:48,387 :INFO : test_5MB :D:\Python_XDM\v38\packages\ATT_v38_00_to_v38_00_5MB.zip
+2020-07-30 17:48:58,311 :INFO : clickAddPackage :Package uploading started,please wait
+2020-07-30 17:49:21,183 :INFO : verifyResult :     Firmware already exists for same model, source version and target version.     
+2020-07-30 19:17:58,763 :INFO : test_5MB :Updating 5MB package details
+2020-07-30 19:17:58,781 :INFO : test_5MB :ATT v38 00 to v38 00 5MB
+2020-07-30 19:17:58,781 :INFO : test_5MB :Upgrade from ATT v38 to v38 5MB
+2020-07-30 19:17:58,781 :INFO : test_5MB :5SA.0.4-14-8.1.0-10.38.00
+2020-07-30 19:17:58,781 :INFO : test_5MB :5SA.0.4-98-8.1.0-10.38.00.5MB
+2020-07-30 19:17:59,019 :INFO : test_5MB :D:\Python_XDM\v38\packages\ATT_v38_00_to_v38_00_5MB.zip
+2020-07-30 19:18:03,740 :INFO : clickAddPackage :Package uploading started,please wait
+2020-07-30 19:24:08,982 :INFO : test_5MB :Updating 5MB package details
+2020-07-30 19:24:08,982 :INFO : test_5MB :ATT v38 00 to v38 00 5MB
+2020-07-30 19:24:08,982 :INFO : test_5MB :Upgrade from ATT v38 to v38 5MB
+2020-07-30 19:24:08,983 :INFO : test_5MB :5SA.0.4-14-8.1.0-10.38.00
+2020-07-30 19:24:08,983 :INFO : test_5MB :5SA.0.4-98-8.1.0-10.38.00.5MB
+2020-07-30 19:24:09,136 :INFO : test_5MB :D:\Python_XDM\v38\packages\ATT_v38_00_to_v38_00_5MB.zip
+2020-07-30 19:24:13,943 :INFO : clickAddPackage :Package uploading started,please wait
+2020-07-30 19:26:18,387 :INFO : test_5MB :Updating 5MB package details
+2020-07-30 19:26:18,387 :INFO : test_5MB :ATT v38 00 to v38 00 5MB
+2020-07-30 19:26:18,388 :INFO : test_5MB :Upgrade from ATT v38 to v38 5MB
+2020-07-30 19:26:18,388 :INFO : test_5MB :5SA.0.4-14-8.1.0-10.38.00
+2020-07-30 19:26:18,388 :INFO : test_5MB :5SA.0.4-98-8.1.0-10.38.00.5MB
+2020-07-30 19:26:18,549 :INFO : test_5MB :D:\Python_XDM\v38\packages\ATT_v38_00_to_v38_00_5MB.zip
