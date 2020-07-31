@@ -10,6 +10,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 
 
+
 @pytest.mark.usefixtures("setup")
 class BaseClass:
     def getLogger(self):
@@ -25,6 +26,8 @@ class BaseClass:
         return logger
 
     def selectProjectDetails(self):
+        pass
+        '''
         self.driver.find_element_by_link_text("Setup").click()  # to select setup text in main screen
         time.sleep(2)
         self.driver.find_element_by_link_text("Firmware").click()  # to select Firmware from sub text of Setup
@@ -33,8 +36,9 @@ class BaseClass:
         dropdown.select_by_visible_text("ATT.SONIM")  # select ATT.SONIM from drop box
         dropdown = Select(self.driver.find_element_by_xpath("//select[@name='MANU_ID']"))  # selecting next drop down
         dropdown.select_by_visible_text("Sonim Technologies Inc")  # select Sonim Technologies Inc from drop box
-        dropdown = Select(self.driver.find_element_by_xpath("//select[@name='IMEI_ID']"))  # selecting next drop down
-        dropdown.select_by_visible_text("XP5800")  # select XP5800 from drop box
+        #dropdown = Select(self.driver.find_element_by_xpath("//select[@name='IMEI_ID']"))  # selecting next drop down
+        #dropdown.select_by_visible_text("XP5800")  # select XP5800 from drop box
+        '''
 
     def appSeverityMedium(self):
         dropdown = Select(self.driver.find_element_by_xpath("//select[@name ='APP_SEVERITY']"))
